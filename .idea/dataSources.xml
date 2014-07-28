@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="469889497">
+    <data-source source="LOCAL" name="Rails customBurger: development" uuid="2570dd01-09f5-4afd-86a3-b064dbb9d427">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:cb_development</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails customBurger: test" uuid="bf13eafd-7cf2-4500-8e9a-c89dcb25ac47">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:cb_test</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails customBurger: production" uuid="0beb2ee2-8c2e-4617-a78c-3559cfd81c2e">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:cb_production</jdbc-url>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddfe9dfffdff9dffedfe5dfe7dfe8dfffdff8dfeddfefdff8dff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
